@@ -1,0 +1,6 @@
+Background_without_leaves
+Tomato_Early_Blight
+Tomato_Healthy
+Tomato_Late_Blight
+Unknown
+Unknown_tomato_Disease
